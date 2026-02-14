@@ -1,0 +1,7 @@
+{
+  "name": "Humanity - Digital Ally Against Bullying",
+  "description": "Un'intelligenza artificiale empatica e gratuita che offre supporto, consigli e comprensione ai ragazzi che affrontano il bullismo, promuovendo i valori dell'umanità.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
